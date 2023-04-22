@@ -1,0 +1,1 @@
+sinc <- function(x) sin(x)/x
