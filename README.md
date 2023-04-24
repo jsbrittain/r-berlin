@@ -2,7 +2,16 @@
 
 [![R](https://github.com/jsbrittain/r-berlin/actions/workflows/r.yml/badge.svg)](https://github.com/jsbrittain/r-berlin/actions/workflows/r.yml)
 
-#### This repository provided training resources during a lab retreat and is not maintained, but do feel free to submit pull requests for practise as outlined below.
+#### This repository provided training resources during a lab retreat and is not maintained
+
+# Github workflow
+
+- Create an issue and discuss
+- Fork the repository
+- Make changes on a feature branch
+- Submit a Pull Request to the upstream repository
+
+# Training walkthrough
 
 During the live session the following topics were covered:
 1. [A brief overview of version control](#a-brief-overview-of-version-control)
@@ -97,6 +106,8 @@ If you recently commited then you will see a large message asking if you want to
 You can now choose whether you want to merge onto your own (forked) main branch, or the main branch of the originating / upstream repository. Choose the latter in this case. Your feature branch should be merging onto the main branch.
 
 A pull-request is a conversation between you and the maintainer (or the maintainers' team) where you can *suggest* changes to their repository, but it is perfectly normal for them to ask for changes (much like manuscript revisions). If the code you have provided is 'clean' (easy to read and understand, well formatted) and provided with test code, then you should be fine. Nevertheless, the repository may obey certain conventions (filenames, etc) that they will ask you to conform to, so don't be surprised if they ask for changes (a fair number of open-source Pull Request go stale because the requester was not expecting to have to follow-up their contribution with, for example, proper testing to demonstrate code suitability).
+
+If you need to make/add changes, simply commit on your feature branch and those commits will automatically appear in the pull request. You can then 'request review' or message the maintainer (use @username in a message) to let the maintainer know that the pull request is ready.
 
 ## A brief overview of code review
 
