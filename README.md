@@ -2,21 +2,14 @@
 
 [![R](https://github.com/jsbrittain/r-berlin/actions/workflows/r.yml/badge.svg)](https://github.com/jsbrittain/r-berlin/actions/workflows/r.yml)
 
-#### This repository provided training resources during a lab retreat and is not maintained
-
-# Github workflow
-
-- Create an issue and discuss
-- Fork the repository
-- Make changes on a feature branch
-- Submit a Pull Request to the upstream repository
+## This repository provided training resources during a lab retreat and is not maintained
 
 # Training walkthrough
 
 During the live session the following topics were covered:
 1. [A brief overview of version control](#a-brief-overview-of-version-control)
 1. [A note on configuring access to github](#a-note-on-configuring-access-to-github)
-1. [Creating a new repository (as owner/maintainer)](#creating-a-new-repository-as-owner/maintainer)
+1. [Creating a new repository (as owner/maintainer)](#creating-a-new-repository-as-ownermaintainer)
 1. [Raising an Issue](#raising-an-issue)
 1. [Forking an existing repository](#forking-an-existing-repository)
 1. [Opening a repository in RStudio](#opening-a-repository-in-rstudio)
